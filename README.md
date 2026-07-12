@@ -8,7 +8,10 @@ A curated collection of high-quality **Chinese movie streaming and review sites*
 ---
 
 ## 📺 Featured Sites / 推荐站点
-- [tianao99.com](https://tianao99.com) — 高清影视播放与影评合集  
+- [tianao99.com](https://tianao99.com) — 高清影视播放与影评合集
+- yezitv.com
+- fawtv.com
+
 
 
 ---
